@@ -6,6 +6,14 @@ pip install opencv-python
 and download "cars.xml" from GitHub.
 for more codes you can visit our channel on Telegram: @CodeProgrammer.
 """
+
+
+
+// test 
+//$command = escapeshellcmd('python ./sayHello.py');
+//exec($command, $output);
+//echo $output[0];
+
 import cv2
 
 cascade_src = 'cars.xml'
